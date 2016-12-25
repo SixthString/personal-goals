@@ -3,4 +3,5 @@ Inspired by many other personal goals posts, i have created this and hopefully i
 
 #Overall Goals for 2017
 Gain 12 Pounds of Lean mass
+
 Find a gig as a big data developer
